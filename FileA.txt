@@ -1,1 +1,2 @@
 "This is FileA" 
+"Add a line to check email signature" 
